@@ -105,5 +105,3 @@ menu("Brigadeiro", 8)
 menu("Brigadeiro", 16)
 menu("Brigadeiro", 24)
 menu("Chocolate", 8)
-
-// Felipe Ruggeri Cabuto - Turma 01
